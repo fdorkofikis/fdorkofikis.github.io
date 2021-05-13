@@ -902,12 +902,12 @@ input, select, textarea {
 	}
 
 		ul.icons li {
-			display: inline-block;
-			padding: 0 0.75em 0 0;
+			/*display: inline-block;*/
+			padding: 0 0.75em 1em 0;
 		}
 
 			ul.icons li:last-child {
-				padding-right: 0;
+				padding-right: 1em;
 			}
 
 			ul.icons li a {
